@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-three-shader-starter/static/js/main.15f75420.chunk.js",
-    "main.js.map": "/react-three-shader-starter/static/js/main.15f75420.chunk.js.map",
+    "main.js": "/react-three-shader-starter/static/js/main.f94e96f1.chunk.js",
+    "main.js.map": "/react-three-shader-starter/static/js/main.f94e96f1.chunk.js.map",
     "runtime-main.js": "/react-three-shader-starter/static/js/runtime-main.18a2f071.js",
     "runtime-main.js.map": "/react-three-shader-starter/static/js/runtime-main.18a2f071.js.map",
     "static/js/2.02598aa9.chunk.js": "/react-three-shader-starter/static/js/2.02598aa9.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.18a2f071.js",
     "static/js/2.02598aa9.chunk.js",
-    "static/js/main.15f75420.chunk.js"
+    "static/js/main.f94e96f1.chunk.js"
   ]
 }
