@@ -1,0 +1,6 @@
+{
+  "short_name": "React three shader starter",
+  "name": "React three shader starter",
+  "start_url": ".",
+  "display": "standalone"
+}
