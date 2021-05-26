@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.15f75420.chunk.js",
-    "main.js.map": "/static/js/main.15f75420.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.53a3dc2b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.53a3dc2b.js.map",
-    "static/js/2.02598aa9.chunk.js": "/static/js/2.02598aa9.chunk.js",
-    "static/js/2.02598aa9.chunk.js.map": "/static/js/2.02598aa9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.02598aa9.chunk.js.LICENSE.txt": "/static/js/2.02598aa9.chunk.js.LICENSE.txt"
+    "main.js": "/react-three-shader-starter/static/js/main.15f75420.chunk.js",
+    "main.js.map": "/react-three-shader-starter/static/js/main.15f75420.chunk.js.map",
+    "runtime-main.js": "/react-three-shader-starter/static/js/runtime-main.18a2f071.js",
+    "runtime-main.js.map": "/react-three-shader-starter/static/js/runtime-main.18a2f071.js.map",
+    "static/js/2.02598aa9.chunk.js": "/react-three-shader-starter/static/js/2.02598aa9.chunk.js",
+    "static/js/2.02598aa9.chunk.js.map": "/react-three-shader-starter/static/js/2.02598aa9.chunk.js.map",
+    "index.html": "/react-three-shader-starter/index.html",
+    "static/js/2.02598aa9.chunk.js.LICENSE.txt": "/react-three-shader-starter/static/js/2.02598aa9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.53a3dc2b.js",
+    "static/js/runtime-main.18a2f071.js",
     "static/js/2.02598aa9.chunk.js",
     "static/js/main.15f75420.chunk.js"
   ]
