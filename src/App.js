@@ -1,5 +1,5 @@
 import { Canvas } from "@react-three/fiber";
-import React, { Suspense, useState } from "react";
+import React, { useState } from "react";
 import Cube from "Cube";
 import github from "images/github.png";
 
@@ -15,12 +15,10 @@ const App = () => {
   return (
     <div style={{ position: "relative" }}>
       <Canvas style={{ height: "100vh", position: "absolute" }}>
-        <Suspense fallback={<></>}>
-          <Cube
-            direction={direction}
-            toggleDirection={() => setDirection(-1 * direction)}
-          />
-        </Suspense>
+        <Cube
+          direction={direction}
+          toggleDirection={() => setDirection(-1 * direction)}
+        />
       </Canvas>
       <div
         style={{
